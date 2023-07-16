@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george-magdy&label=Profile%20views&color=0e75b6&style=flat" alt="george-magdy" /> </p>
 
-- 🌱 I’m currently learning **Node.JS with Express**
-
 - 👀 I’m interested in **Full Stack developing**
+
+- 🌱 I’m currently learning **Node.JS with Express**
 
 - 📫 How to reach me **georgemagdy219@gmail.com**
 
